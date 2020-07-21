@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "Setting.btnSave(_:):Setting.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "networkTypeChoose">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "QuotesViewController.syncShellExec(path:args:):QuotesViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "QuotesViewController.runShellScrip(name:_:):QuotesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "stringPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

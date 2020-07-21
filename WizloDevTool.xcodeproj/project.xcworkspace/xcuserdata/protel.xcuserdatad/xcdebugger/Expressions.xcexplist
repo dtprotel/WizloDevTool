@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "NSViewController.syncShellExec(path:args:):QuotesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "process.standardOutput">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
